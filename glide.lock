@@ -1,0 +1,21 @@
+hash: 6b3f5d257dfbbf91ca16fe28268b50665673bfa1d2751d9c150de8a11e93675f
+updated: 2017-10-13T15:11:46.920194467+08:00
+imports:
+- name: github.com/goinaction/code
+  version: f43f6fbd236c44d8888eecab93d78304b70a9ab0
+  subpackages:
+  - chapter10/listing06/pubsub
+  - chapter2/sample/matchers
+  - chapter2/sample/search
+  - chapter3/dbdriver/postgres
+  - chapter3/words
+  - chapter5/listing64/counters
+  - chapter5/listing68/counters
+  - chapter5/listing71/entities
+  - chapter5/listing74/entities
+  - chapter7/patterns/pool
+  - chapter7/patterns/runner
+  - chapter7/patterns/search
+  - chapter7/patterns/work
+  - chapter9/listing17/handlers
+testImports: []

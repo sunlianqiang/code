@@ -1,0 +1,18 @@
+package: goinaction_code
+import:
+- package: github.com/goinaction/code
+  subpackages:
+  - chapter10/listing06/pubsub
+  - chapter2/sample/matchers
+  - chapter2/sample/search
+  - chapter3/dbdriver/postgres
+  - chapter3/words
+  - chapter5/listing64/counters
+  - chapter5/listing68/counters
+  - chapter5/listing71/entities
+  - chapter5/listing74/entities
+  - chapter7/patterns/pool
+  - chapter7/patterns/runner
+  - chapter7/patterns/search
+  - chapter7/patterns/work
+  - chapter9/listing17/handlers
